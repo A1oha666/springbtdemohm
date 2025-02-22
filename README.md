@@ -1,1 +1,2 @@
-springboot CRUD 
+springboot 
+A simple demo with search functionality
